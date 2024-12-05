@@ -1,3 +1,4 @@
 <?php
 $test = 1234;
-echo $test;
+$exemp = $test;
+echo $exemp;
